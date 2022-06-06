@@ -69,4 +69,4 @@ Uygulama genelinde Spring Boot, Spring Rest ve JPA kullanılmalı, clean code ve
 
 ### API url
 
-[API-urls](diagrams-and-urls/API-urls.png)
+![API-urls](diagrams-and-urls/API-urls.png)
